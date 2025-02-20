@@ -1,22 +1,6 @@
-# 👋 Hi, I'm [Your Name]  
-
-## 🚀 About Me  
-- 🌱 I’m currently learning **C++ and Data Structures & Algorithms**  
-- 🔭 I’m working on **[Your Project Name]**  
-- 💬 Ask me about **C++, DSA, and Web Development**  
-- 📫 How to reach me: **[Your Email or Social Links]**  
-
-## 🛠️ Tech Stack  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![Data Structures](https://img.shields.io/badge/Data%20Structures-282C34?style=flat&logo=code&logoColor=white)  
-![Algorithms](https://img.shields.io/badge/Algorithms-007396?style=flat&logo=java&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Niranjan+Dangi;What+if+you+fly%3F+)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)  
-
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](https://your-website.com)
+![Niranjand0's Stats](https://github-readme-stats.vercel.app/api?username=Niranjand0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Niranjand0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Niranjand0&theme=vue-dark&hide_border=true)
+![Niranjand0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niranjand0&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
