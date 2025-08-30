@@ -6,7 +6,7 @@ A developer who likes cooking projects with modern web tech
 
 ## 🚀 Tech Stack  
 
-Below is a comprehensive list of technologies I use for development and programming, including languages, frameworks, IDEs, apps and various software.  
+Below are some languages, tools, and apps I use regularly.
 
 <p align="center">
   
@@ -15,6 +15,7 @@ Below is a comprehensive list of technologies I use for development and programm
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> -->
 
   <!-- Frameworks -->
   <!-- <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
