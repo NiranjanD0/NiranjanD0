@@ -7,7 +7,6 @@ Always learning, always building.
 Here are some languages, tools, and apps I use regularly:
 
 <p align="center">
-  
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -21,11 +20,10 @@ Here are some languages, tools, and apps I use regularly:
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 </p>
 
-### GitHub Stats  
-
+### GitHub Stats
   ![NiranjanD0's Stats](https://github-readme-stats.vercel.app/api?username=NiranjanD0&theme=react&show_icons=true&hide_border=true&count_private=true&hide=contribs&text_bold=false&line_height=24&custom_title=Niranjan's%20Github%20Stats)
   ![NiranjanD0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=react&show_icons=true&hide_border=true&layout=compact)
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://niranjan0.xyz"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+</p> -->
