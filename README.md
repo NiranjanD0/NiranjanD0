@@ -42,5 +42,5 @@ Below are some languages, tools, and apps I use regularly.
 
 <p align="center">
   <a href="https://niranjan0.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:niranjan@niranjan0.xyz" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:niranjan@niranjan0.xyz"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
