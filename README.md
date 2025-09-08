@@ -24,7 +24,7 @@ Here are some languages, tools, and apps I use regularly:
 
 ### GitHub Stats
   ![NiranjanD0's Stats](https://github-readme-stats.vercel.app/api?username=NiranjanD0&theme=react&show_icons=true&hide_border=true&count_private=true&hide=contribs&text_bold=false&line_height=24&custom_title=Niranjan's%20Github%20Stats&cache_seconds=0)
-  ![NiranjanD0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=react&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker&cache_seconds=0)
+  ![NiranjanD0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=react&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game&cache_seconds=0)
 
 <!-- <p align="center">
   <a href="https://niranjan0.xyz"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
