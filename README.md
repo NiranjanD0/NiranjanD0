@@ -20,8 +20,8 @@ Here are some languages, tools, and apps I use regularly:
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+ <!-- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p> -->
 
 ### GitHub Stats
   ![NiranjanD0's Stats](https://github-readme-stats.vercel.app/api?username=NiranjanD0&theme=react&show_icons=true&hide_border=true&count_private=true&hide=contribs&text_bold=false&line_height=24&custom_title=Niranjan's%20Github%20Stats&cache_seconds=0)
