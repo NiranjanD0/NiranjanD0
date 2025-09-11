@@ -4,7 +4,7 @@ Always learning, always building.
 
 ### Tech Stack  
 
-Here are some languages, tools, and apps I use regularly:
+Languages, tools, and platforms I work with:
 
 <p align="center">
   <!-- Languages -->
