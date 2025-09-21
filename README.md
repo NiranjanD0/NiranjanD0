@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=300&vCenter=true&width=435&lines=Hi%2C+I'm+Niranjan;What+if+you+fly%3F+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=4000&pause=300&center=true&width=435&lines=Hi%2C+I'm+Niranjan;What+if+u+fly%3F)](https://git.io/typing-svg)
 
 Always learning, always building.
 
