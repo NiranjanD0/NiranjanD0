@@ -22,6 +22,17 @@ Languages, tools, and platforms I work with:
 </p>
 
 ### GitHub Stats
-  ![NiranjanD0's Stats](https://github-readme-stats.vercel.app/api?username=NiranjanD0&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false) 
+
+<table>
+<tr>
+<td>
+  ![NiranjanD0's Stats](https://github-readme-stats.vercel.app/api?username=NiranjanD0&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+</td>
+</tr>
+<tr>
+<td>
   ![NiranjanD0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game&cache_seconds=7200)
+</td>
+</tr>
+</table>
 
