@@ -30,7 +30,7 @@ Languages, tools, and platforms I work with:
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
     </td>
   </tr>
