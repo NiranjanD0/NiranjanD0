@@ -28,12 +28,12 @@ Languages, tools, and platforms I work with:
 <table align="center">
   <tr>
     <td>
-      <img style="width: 40vw" src="https://github-readme-stats.vercel.app/api?username=NiranjanD0&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="NiranjanD0's Stats" />
+      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api?username=NiranjanD0&show_icons=true&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="NiranjanD0's Stats" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img style="width: 40vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
+      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
     </td>
   </tr>
 </table>
