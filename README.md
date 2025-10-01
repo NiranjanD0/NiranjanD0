@@ -33,7 +33,7 @@ Languages, tools, and platforms I work with:
   </tr>
   <tr>
     <td align="center">
-      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
+      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=dark&show_icons=true&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game,dotfiles&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
     </td>
   </tr>
 </table>
