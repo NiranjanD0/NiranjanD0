@@ -34,7 +34,7 @@ Languages, tools, and platforms I work with:
   </tr>
   <tr>
     <td align="center">
-      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=true&layout=compact&exclude_repo=DailyTracker,LabAss,Map-Submissions,Tetris,Snake-game,dotfiles&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
+      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=true&layout=compact&exclude_repo=DailyTracker,WarpCopy-Parallel-File-Transfer-over-SSH,LabAss,Map-Submissions,Tetris,Snake-game,dotfiles&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
     </td>
   </tr>
 </table>
