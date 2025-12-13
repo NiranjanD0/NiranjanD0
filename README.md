@@ -13,7 +13,7 @@ Developer focused on learning, and who loves experimenting with their OS.
   <!-- <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" /> -->
   <!-- <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /> -->
   <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> -->
-  <!-- <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /> -->
+  <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
   <!-- <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" /> -->
   <!-- <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" /> -->
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033" />
@@ -27,18 +27,9 @@ Developer focused on learning, and who loves experimenting with their OS.
 </section>
 
 ### GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api?username=NiranjanD0&show_icons=true&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=true&include_all_commits=false&count_private=false" alt="NiranjanD0's Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img style="width: 350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=true&layout=compact&exclude_repo=DailyTracker,WarpCopy-Parallel-File-Transfer-over-SSH,LabAss,Map-Submissions,Tetris,Snake-game,dotfiles&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=NiranjanD0&show_icons=true&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=false&include_all_commits=false&count_private=false" alt="NiranjanD0's Stats" />
+  <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=false&layout=compact&exclude_repo=DailyTracker,WarpCopy-Parallel-File-Transfer-over-SSH,LabAss,Map-Submissions,Tetris,Snake-game,dotfiles" alt="NiranjanD0's Top Languages" />
+</p>
 
 Checkout my [website](https://niranjan0.xyz).
