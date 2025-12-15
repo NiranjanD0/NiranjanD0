@@ -5,7 +5,7 @@ Developer focused on learning, and who loves experimenting with their OS.
 ### Tech Stack  
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C" />
+  <!-- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00599C" /> -->
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
@@ -17,7 +17,6 @@ Developer focused on learning, and who loves experimenting with their OS.
   <!-- <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248" /> -->
   <!-- <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" /> -->
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Neovim-000000?style=for-the-badge&logo=neovim&logoColor=43A1A0" />
