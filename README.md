@@ -28,7 +28,7 @@ Developer focused on learning, and who loves experimenting with their OS.
 ### GitHub Stats
 <p>
   <img style="height: 160px" src="https://github-readme-stats.vercel.app/api?username=NiranjanD0&show_icons=true&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=false&count_private=true" alt="NiranjanD0's Stats" />
-  <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=false&layout=compact&exclude_repo=DailyTracker,WarpCopy-Parallel-File-Transfer-over-SSH,LabAss,Map-Submissions,Tetris,Snake-game,dotfiles&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
+  <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=false&layout=compact&exclude_repo=WarpCopy-Parallel-File-Transfer-over-SSH,Tetris,Snake-game,dotfiles&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
 </p>
 
 Checkout my [website](https://niranjan0.xyz).
