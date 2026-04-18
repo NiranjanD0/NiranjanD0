@@ -31,4 +31,4 @@ Developer focused on learning, and who loves experimenting with their OS.
   <img style="height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanD0&theme=transparent&bg_color=000000&title_color=43A1A0&text_color=FFFFFF&icon_color=43A1A0&hide_border=false&layout=compact&exclude_repo=WarpCopy-Parallel-File-Transfer-over-SSH,Tetris,Snake-game,dotfiles&cache_seconds=7200" alt="NiranjanD0's Top Languages" />
 </p>
 
-Checkout my [website](https://niranjan0.xyz).
+Checkout my [website](https://niranjan.lol).
