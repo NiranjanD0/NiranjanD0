@@ -23,6 +23,8 @@ Developer focused on learning, and who loves experimenting with their OS.
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
   <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=1793D1" />
   <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6" />
+  <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
 </section>
 
 ### GitHub Stats
